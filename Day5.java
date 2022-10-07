@@ -1,3 +1,8 @@
+//Given task about Given an integer,n , perform the following conditional actions: If  is odd, print Weird If  is even and in the inclusive range of  to , print Not Weird
+//If  is even and in the inclusive range of  to , print Weird
+//If  is even and greater than , print Not Weird
+//Complete the stub code provided in your editor to print whether or not  is weird.
+//sample input (0)=3 //sample output= Weird //sample input (1)= 24 //sample output= Not Weird.
 import java.io.*;
 import java.math.*;
 import java.security.*;
@@ -7,7 +12,7 @@ import java.util.concurrent.*;
 import java.util.regex.*;
 
 public class Day5 {
-
+ 
     private static final Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
