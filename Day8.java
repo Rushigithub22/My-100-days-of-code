@@ -4,7 +4,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class Table {
+public class Day8 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
