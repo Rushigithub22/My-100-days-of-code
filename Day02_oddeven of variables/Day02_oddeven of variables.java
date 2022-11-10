@@ -40,3 +40,4 @@ Using Bitwise OR
 Using Bitwise AND
 Using Bitwise XOR
 By Checking the Least Significant Bit
+*/
