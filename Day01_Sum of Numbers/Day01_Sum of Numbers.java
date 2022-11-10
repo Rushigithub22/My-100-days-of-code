@@ -7,6 +7,7 @@ First, declare and initialize two variables to be added. Another variable to sto
 Apply mathematical operator (+) between the declared variable and store the result.
 The following program calculates and prints the sum of two numbers.
 */
+
 package Day1;
 
 public class Main {
@@ -18,6 +19,7 @@ public class Main {
         System.out.println(ans);
     }
 }
+
 /*
 DESCRIPTION:
 Sum of Two Numbers in Java Using Method
@@ -28,4 +30,4 @@ By Using User-defined Method
 The Java Scanner class
 allows us to read input from the user. We take two numbers as input and pass them to the user-defined method sum(). 
 The following program calculates the sum of two numbers using the method and prints the result.
-
+*/
