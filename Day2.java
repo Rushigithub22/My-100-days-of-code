@@ -1,3 +1,5 @@
+//Shows a oddeven of variables
+
 import java.util.*;
 
 public class Conditionsday2 {
