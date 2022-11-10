@@ -18,6 +18,7 @@ public class Main {
         int ans = (a * b) / (a - b);
         System.out.println(ans);
     }
+    
 }
 
 /*
