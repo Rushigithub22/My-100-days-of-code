@@ -1,4 +1,8 @@
-/* JavaLambdaExpressions
+/* 
+📌Topic: JavaLambdaExpressions
+📌language: Java
+📌Question:
+
 This Java 8 challenge tests your knowledge of Lambda expressions!
 Write the following methods that return a lambda expression performing a specified action:
 performOperation checkEvenOdd(): The lambda expression must return  if a number is even or  if it is odd.
